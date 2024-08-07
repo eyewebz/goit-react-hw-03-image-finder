@@ -4,7 +4,7 @@ import { Component, createRef } from 'react';
 import Searchbar from './Searchbar';
 import axios from 'axios';
 import ImageGallery from './ImageGallery';
-import Button from './common/Button/Button';
+import Button from './Button/Button';
 import ImageGalleryItem from './ImageGalleryItem';
 
 axios.defaults.baseURL =
